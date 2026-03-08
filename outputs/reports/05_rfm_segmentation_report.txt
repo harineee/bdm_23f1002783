@@ -1,0 +1,51 @@
+======================================================================
+DJC JEWELLERS - RFM CUSTOMER SEGMENTATION REPORT
+======================================================================
+Analysis Date: 2024-12-31
+Total Customers Analyzed: 3,774
+
+SEGMENT DISTRIBUTION:
+----------------------------------------------------------------------
+Segment      Count    %        Avg Monetary     Total Revenue   
+----------------------------------------------------------------------
+Champions    534      14.1   % Rs. 0.77     L   Rs. 409.55   L
+Loyal        1108     29.4   % Rs. 0.35     L   Rs. 382.95   L
+Others       624      16.5   % Rs. 0.22     L   Rs. 134.62   L
+At Risk      622      16.5   % Rs. 0.35     L   Rs. 216.71   L
+Lost         886      23.5   % Rs. 0.14     L   Rs. 125.66   L
+----------------------------------------------------------------------
+
+SEGMENT DEFINITIONS:
+----------------------------------------
+Champions : R≥4, F≥4, M≥4 (Best customers - recent, frequent, high value)
+Loyal     : R≥3, F≥3 (Regular customers with good engagement)
+At Risk   : R≤2, F≥3 (Were frequent buyers, now becoming inactive)
+Lost      : R≤2, F≤2 (Inactive customers with low engagement)
+Others    : Everyone else (moderate engagement)
+
+RFM SCORE METHODOLOGY:
+----------------------------------------
+R (Recency)  : Days since last purchase (lower = better, score 5-1)
+F (Frequency): Number of unique transactions (higher = better, score 1-5)
+M (Monetary) : Total purchase value (higher = better, score 1-5)
+
+RECOMMENDATIONS:
+----------------------------------------
+1. Champions (14.1%): Maintain relationship with exclusive previews,
+   early access to new collections, and personalized service.
+2. Loyal (29.4%): Focus on upselling opportunities, introduce
+   loyalty program with points/rewards for continued engagement.
+5. Others (16.5%): Nurture with regular communication,
+   festival offers, and gradual engagement building.
+3. At Risk (16.5%): URGENT - Launch re-engagement campaign with
+   special offers, personalized outreach, and reminder communications.
+4. Lost (23.5%): Consider win-back promotions with significant
+   discounts, or archive for future seasonal campaigns.
+
+BUSINESS IMPACT:
+----------------------------------------
+• Champions contribute Rs. 409.55 L (32.3% of revenue)
+• At-Risk customers represent Rs. 216.71 L in historical value
+  - Recovering 50% of At-Risk could add Rs. 108.36 L annually
+
+======================================================================

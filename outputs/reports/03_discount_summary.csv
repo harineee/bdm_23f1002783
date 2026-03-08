@@ -1,0 +1,6 @@
+,discount_pct,discount_pct,discount_pct,discount_pct,discount_amount,mrp,final_price
+,mean,min,max,std,sum,sum,sum
+customer_type,,,,,,,
+Walk-in,1.99,0.0,4.9,1.08,1070875.34,54343677.76,53272802.42
+Wedding,6.32,3.0,12.0,2.0,2910053.86,46430275.42,43520221.56
+Wholesale,11.64,8.0,17.9,2.24,3988712.5,34144974.95,30156262.45

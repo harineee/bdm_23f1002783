@@ -1,0 +1,33 @@
+======================================================================
+DJC JEWELLERS - INVENTORY ANALYSIS REPORT
+======================================================================
+Report Generated: 2026-02-01 07:39:43
+
+EXECUTIVE SUMMARY
+----------------------------------------
+Total Inventory Value: Rs. 12,540,851
+Capital Blocked (Excess + Dead): Rs. 7,359,602 (58.7%)
+Inventory Turnover Ratio: 3.05
+Days in Inventory: 120 days
+
+ABC ANALYSIS RESULTS
+----------------------------------------
+Category A: 21 items, Revenue: Rs. 101,385,711
+Category B: 50 items, Revenue: Rs. 19,104,322
+Category C: 109 items, Revenue: Rs. 6,459,253
+
+STOCK STATUS DISTRIBUTION
+----------------------------------------
+Critical: 12 items, Value: Rs. 7,449
+Low: 12 items, Value: Rs. 48,038
+Normal: 86 items, Value: Rs. 5,125,761
+Excess: 48 items, Value: Rs. 4,076,708
+Dead Stock: 22 items, Value: Rs. 3,282,894
+
+KEY RECOMMENDATIONS
+----------------------------------------
+1. IMMEDIATE ACTION: Reorder 12 critical stock items
+2. LIQUIDATE: Consider discounting 22 dead stock items
+   Potential capital recovery: Rs. 3,282,894
+3. REDUCE: Review excess stock procurement policies
+4. FOCUS: Prioritize Category A items for stock optimization

@@ -1,0 +1,46 @@
+======================================================================
+DJC JEWELLERS - FORECAST ACCURACY REPORT
+======================================================================
+Generated: 2026-02-08 22:32:30
+Training Period: January 2022 - December 2023 (24 months)
+Testing Period: January 2024 - December 2024 (12 months)
+
+MODEL: SARIMA(1,1,1)(1,1,1,12)
+----------------------------------------------------------------------
+
+ACCURACY METRICS:
+----------------------------------------
+RMSE: Rs. 2,083,973 (Rs. 20.84 Lakh)
+MAE:  Rs. 1,922,073 (Rs. 19.22 Lakh)
+MAPE: 52.76%
+
+INTERPRETATION:
+----------------------------------------
+FAIR - The model provides reasonable predictions but has room for improvement.
+
+MONTHLY BREAKDOWN:
+----------------------------------------------------------------------
+Month        Actual             Predicted          Error %   
+----------------------------------------------------------------------
+Jan 2024     Rs.    22.02 L     Rs.     7.55 L       65.7%
+Feb 2024     Rs.    21.55 L     Rs.     9.94 L       53.9%
+Mar 2024     Rs.    29.95 L     Rs.    14.11 L       52.9%
+Apr 2024     Rs.    52.81 L     Rs.    36.65 L       30.6%
+May 2024     Rs.    54.35 L     Rs.    48.88 L       10.1%
+Jun 2024     Rs.    45.78 L     Rs.    27.88 L       39.1%
+Jul 2024     Rs.    16.13 L     Rs.     0.18 L       98.9%
+Aug 2024     Rs.    25.46 L     Rs.     4.21 L       83.5%
+Sep 2024     Rs.    41.23 L     Rs.    13.17 L       68.0%
+Oct 2024     Rs.    72.90 L     Rs.    42.02 L       42.4%
+Nov 2024     Rs.    78.75 L     Rs.    60.86 L       22.7%
+Dec 2024     Rs.    53.78 L     Rs.    18.57 L       65.5%
+----------------------------------------------------------------------
+
+RECOMMENDATIONS:
+----------------------------------------
+1. The model captures seasonal patterns well (Diwali peak in Nov)
+2. Consider re-training quarterly with new data for improved accuracy
+3. Use confidence intervals for inventory planning decisions
+4. Monitor forecast vs actual monthly to detect model drift
+
+======================================================================

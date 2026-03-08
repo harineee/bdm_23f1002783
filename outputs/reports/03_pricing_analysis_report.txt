@@ -1,0 +1,35 @@
+======================================================================
+DJC JEWELLERS - PRICING & DISCOUNT ANALYSIS REPORT
+======================================================================
+Report Generated: 2026-02-01 07:39:48
+
+EXECUTIVE SUMMARY
+----------------------------------------
+Total MRP (3 Years): Rs. 134,918,928
+Total Discounts Given: Rs. 7,969,642
+Net Revenue: Rs. 126,949,286
+Average Discount Rate: 5.91%
+Revenue Leakage (Excess Discounts): Rs. 469,243
+Annual Leakage: Rs. 156,414
+
+CURRENT DISCOUNT PATTERNS
+----------------------------------------
+Walk-in: Avg 2.0%, Max 4.9%
+Wedding: Avg 6.3%, Max 12.0%
+Wholesale: Avg 11.6%, Max 17.9%
+
+RECOMMENDED DISCOUNT POLICY
+----------------------------------------
+Walk-in: 2.0% - 5.0%
+Wedding: 5.0% - 10.0%
+Wholesale: 10.0% - 15.0%
+
+KEY RECOMMENDATIONS
+----------------------------------------
+1. Implement standardized discount slabs by customer type
+2. Require manager approval for discounts exceeding policy
+3. Track discount patterns by salesperson for training
+4. Offer volume-based bonuses instead of ad-hoc discounts
+5. Create festival-specific promotional campaigns
+
+Estimated Annual Savings: Rs. 156,414
