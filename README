@@ -15,8 +15,6 @@ DJC Jewellers deals in gold and silver jewellery across categories like chains, 
 **Pricing:** Annual revenue leakage of ₹1.56L from inconsistent discounting. Wholesale customers average 11.6% discounts (max 17.9%) against a recommended cap of 15%. Standardized discount slabs by customer type are proposed.
 
 ## Project Structure
-
-```
 djc-bdm-main/
 ├── data/
 │   ├── raw/                            # Core business data
@@ -40,9 +38,8 @@ djc-bdm-main/
 │       ├── generate_additional_charts.py    Extended visualizations (charts 10–24)
 │       └── run_all_analysis.py              Master runner for all analysis scripts
 └── outputs/
-    ├── visualizations/                 24 analysis charts (PNG)
-    └── reports/                        Analysis reports and CSVs
-```
+├── visualizations/                 24 analysis charts (PNG)
+└── reports/                        Analysis reports and CSVs
 
 ## Datasets
 
@@ -69,7 +66,6 @@ Discount pattern analysis by customer type, revenue leakage estimation, discount
 ACF/PACF plots for SARIMA parameter selection, model diagnostics, forecast-vs-actual validation with accuracy metrics (RMSE, MAE, MAPE), RFM customer segmentation, and EOQ/reorder point analysis.
 
 ## Usage
-
 ```bash
 # Install dependencies
 pip install pandas numpy matplotlib seaborn scipy statsmodels
